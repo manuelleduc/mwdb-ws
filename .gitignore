@@ -1,0 +1,4 @@
+/.idea
+/leveldb_data
+/*.iml
+/target
